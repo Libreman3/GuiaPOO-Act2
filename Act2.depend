@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1744743996 source:c:\users\dairy\onedrive\documents\programacion\guia poo\act2\main.cpp
+	<iostream>
+	"dado.h"
+
+1744744017 source:c:\users\dairy\onedrive\documents\programacion\guia poo\act2\dado.cpp
+	<iostream>
+	"dado.h"
+	<ctime>
+
+1744743581 c:\users\dairy\onedrive\documents\programacion\guia poo\act2\dado.h
+	<string>
+
